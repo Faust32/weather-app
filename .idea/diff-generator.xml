@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiffGenerationConfig">
+    <option name="snapshotDbValue" value="fb7e3f54-e06b-42e0-aa0d-b974a1a571b1" />
+    <option name="sourceModelValue" value="weather.main:weather.main" />
+    <option name="targetDbValue" value="fb7e3f54-e06b-42e0-aa0d-b974a1a571b1" />
+  </component>
+</project>
