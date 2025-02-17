@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="weather">
-    <output-path>$PROJECT_DIR$/out/artifacts/weather</output-path>
-    <root id="archive" name="weather.war" />
-  </artifact>
-</component>
